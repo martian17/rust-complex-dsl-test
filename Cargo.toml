@@ -1,0 +1,8 @@
+[package]
+name = "dsl-parser-test"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+num = "0.4.3"
+dsl-parser = { path = "./dsl-parser" }
