@@ -1,0 +1,3 @@
+[submodule "rust-complex-dsl"]
+	path = rust-complex-dsl
+	url = git@github.com:martian17/rust-complex-dsl.git
